@@ -7,9 +7,9 @@
 
 - I’m currently working on passion projects in my spare time, such as [Tesla-Automatic-Preconditioning](https://github.com/javaDevJT/Tesla-Automatic-Preconditioning)
 
-- All of my projects are available at [javadevjt.tech](javadevjt.tech)
+- All of my projects are available at [javadevjt.tech](https://javadevjt.tech)
 
-- I sometimes write articles on [javadevjt.tech](javadevjt.tech)
+- I sometimes write articles on [javadevjt.tech](https://javadevjt.tech)
 
 - How to reach me **joshterk@javadevjt.tech**
 
